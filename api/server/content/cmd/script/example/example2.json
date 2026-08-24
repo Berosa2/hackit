@@ -1,0 +1,9 @@
+[
+  "notification HackIT|Starting...",
+  "wait 2",
+  "notification HackIT|2 seconds passed!",
+  "wait 3",
+  "notification HackIT|5 seconds passed!",
+  "wait 1",
+  "notification HackIT|Finished!"
+]
