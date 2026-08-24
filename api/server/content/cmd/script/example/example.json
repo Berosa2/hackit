@@ -1,6 +1,5 @@
 [
   "notification Test|HackIT exe|is|working!",
-  "mine|start",
-  "mine|start",
+  "mine start",
   "notification Points Your|current|points:|{points}"
 ]
