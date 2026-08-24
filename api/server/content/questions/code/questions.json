@@ -1,0 +1,70 @@
+{
+  "title": "Coding Questions!",
+  "points": "100",
+  "question": [
+    {
+      "title": "O que e Github?",
+      "answer": "GIT",
+      "question": [
+        "GIT",
+        "CODE",
+        "DEMO",
+        "DATABASE",
+        "SERVER",
+        "REPOSITORY"
+      ]
+    },
+    {
+      "title": "Qual dessas linguagens e usada para desenvolvimento web?",
+      "answer": "JavaScript",
+      "question": [
+        "JavaScript",
+        "Python",
+        "C++",
+        "Java",
+        "Ruby",
+        "Go",
+        "Rust",
+        "Lua"
+      ]
+    },
+    {
+      "title": "Qual destes e um banco de dados?",
+      "answer": "PostgreSQL",
+      "question": [
+        "PostgreSQL",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "PNG",
+        "Git",
+        "JSON"
+      ]
+    },
+    {
+      "title": "Qual comando instala pacotes no Node.js?",
+      "answer": "npm install",
+      "question": [
+        "npm install",
+        "npm start",
+        "node install",
+        "git install",
+        "node package",
+        "npm package"
+      ]
+    },
+    {
+      "title": "Qual desses e um sistema operacional?",
+      "answer": "Linux",
+      "question": [
+        "Linux",
+        "Python",
+        "React",
+        "Node.js",
+        "Git",
+        "MySQL",
+        "Docker"
+      ]
+    }
+  ]
+}
