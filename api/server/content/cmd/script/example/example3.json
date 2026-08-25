@@ -1,0 +1,18 @@
+[
+  "clear",
+  "echo === HackIT Remote Script ===",
+  "wait 1",
+  "echo User: {user.name}",
+  "wait 1",
+  "echo Version: {version}",
+  "wait 1",
+  "echo Points: {points}",
+  "wait 1",
+  "echo Points/s: {points-p-s}",
+  "wait 1",
+  "notification HackIT|Remote script is running!",
+  "wait 2",
+  "clear",
+  "echo === Finished ===",
+  "echo Server: {server.link}"
+]
